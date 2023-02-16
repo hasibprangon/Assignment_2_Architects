@@ -8,8 +8,7 @@ body {
 /* head section start */
 .head_section {
 
-    /* width: 1340px; */
-    width: 100%;
+    width: 1340px;
     height: 1200px;
     background: rgba(233, 222, 210, 0.952);
 }
