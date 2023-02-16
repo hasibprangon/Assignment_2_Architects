@@ -1,0 +1,21 @@
+.head_section {
+
+    width: 1340px;
+    height: 1200px;
+    background: rgba(233, 222, 210, 0.1);
+}
+.nav_section {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.list-item {
+    list-style-type: none;
+    font-weight: 500;
+    font-size: 18px;
+    color: #424242;
+    display: flex;
+    gap: 50px;
+}
