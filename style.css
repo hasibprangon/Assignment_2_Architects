@@ -1,3 +1,4 @@
+/* head section start */
 .head_section {
 
     width: 1340px;
@@ -50,7 +51,9 @@
     border-radius: 8px;
 
 }
+/* head section end */
 
+/* our team */
 .team-section {
     display: flex;
     justify-content: space-between;
@@ -80,7 +83,7 @@
     padding-top: 0px;
     margin-right: 100px;
 }
-
+/* loveable & enjoyable features */
 .love-enjoy-section {
     display: flex;
     margin-left: 100px;
@@ -132,7 +135,7 @@
     color: #FFFFFF;
     border: none;
 }
-
+/* our facts */
 .facts {
     margin-left: 60px;
 }
@@ -166,7 +169,7 @@
     /* border: 3px solid red; */
     border-radius: 10px;
 }
-
+/* our sponsor companey */
 .our-sponsors {
     text-align: center;
     padding-top: 80px;
@@ -180,7 +183,7 @@
     margin-bottom: 100px;
     justify-content: space-between;
 }
-
+/* footer */
 footer {
     background: #FFF4E7;
     border-radius: 8px;
@@ -193,4 +196,10 @@ footer {
     margin-right: 70px;
     margin-left: 70px;
     margin-bottom: 100px;
+}
+    
+@media screen and(max-width:768px) {
+    .head_section{
+     flex-direction: column;
+    }
 }
