@@ -116,6 +116,12 @@
     height: 900px;
 }
 
+.love-enjoy-section button {
+
+    transform: translate(-10%, -80%);
+
+}
+
 .experience-btn {
     width: 250px;
     height: 150px;
@@ -129,6 +135,36 @@
 
 .facts {
     margin-left: 60px;
+}
+
+.all-boxes {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box-item {
+    border: 1px solid #FF900E;
+    border-radius: 8px;
+    width: 169px;
+    height: 150px;
+    text-align: center;
+    padding: 10px;
+    transition: width 2s linear, height 2s linear, transform 3s;
+}
+
+.box-item:hover {
+    width: 300px;
+    height: 300px;
+    background-color: aqua;
+    text-align: center;
+    font-weight: 200;
+    font-size: 20px;
+    padding-top: 50px;
+    /* transform: rotate(360deg); */
+    /* animation-play-state: running; */
+    /* border: 3px solid red; */
+    border-radius: 10px;
 }
 
 .our-sponsors {
