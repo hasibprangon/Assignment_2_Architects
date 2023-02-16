@@ -115,3 +115,30 @@
     width: 662px;
     height: 900px;
 }
+
+.experience-btn {
+    width: 250px;
+    height: 150px;
+    background: #FF900E;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 60px;
+    color: #FFFFFF;
+    border: none;
+}
+
+
+
+.our-sponsors {
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+
+.our-company {
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+    justify-content: space-between;
+}
