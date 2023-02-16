@@ -81,3 +81,37 @@
     margin-right: 100px;
 }
 
+.love-enjoy-section {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 100px;
+
+}
+
+.description-side {
+    padding-right: 54px;
+    height: 850px;
+}
+
+.love-enjoy-description {
+    width: 500px;
+}
+
+.our-concept {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.know-us {
+    width: 500px;
+    padding: 2px 5px 2px 15px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.love-enjoy-section img{
+    width: 662px;
+    height: 900px;
+}
