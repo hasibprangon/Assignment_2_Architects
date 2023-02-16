@@ -19,3 +19,34 @@
     display: flex;
     gap: 50px;
 }
+
+.header {
+    text-align: center;
+}
+
+.about-us {
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;
+    margin-bottom: 30px;
+
+}
+
+.explore-btn {
+    width: 180px;
+    height: 64px;
+    background: #ffbf0ef1;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: none;
+    margin-bottom: 30px;
+}
+
+.banner-img {
+    width: 1240px;
+    height: 700px;
+    border-radius: 8px;
+
+}
