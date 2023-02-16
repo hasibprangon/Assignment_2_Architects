@@ -127,7 +127,9 @@
     border: none;
 }
 
-
+.facts {
+    margin-left: 60px;
+}
 
 .our-sponsors {
     text-align: center;
